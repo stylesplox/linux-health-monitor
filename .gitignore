@@ -1,0 +1,1 @@
+printf "*.swp\n*.swo\n*~\n" > .gitignore
